@@ -112,3 +112,4 @@ AFortPlayerStateAthena::bIsDisconnected -> 0x174C
 AFortPlayerStateAthena::RebootCounter -> 0x190C
 AFortPlayerStateAthena::AlwaysIncludeTeamAsAllies -> 0x1210
 AFortPlayerState::Platform -> 0x3F0
+AFortPlayerState::HabaneroComponent -> 0x9E8
